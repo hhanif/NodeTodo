@@ -1,6 +1,8 @@
 # NodeTodo
 Node.js Intro Project
 
+Created for Udemy's Learn and Understand NodeJS Course
+
 Node.js To-Do List
 
 Goals:
